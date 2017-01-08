@@ -1,5 +1,7 @@
 
 ![card sample](output.jpg)
+
+![card sample](output2.jpg)
 # Namecard User Guide
 
 Namecard automates business card creation.
