@@ -6,7 +6,7 @@ logo 	= RLayout::Image.new(tag: "logo", image_path: "/Users/mskim/Development/na
 # qrcode 	= RLayout::Image.new(tag: "qrcode", local_image: "qrcode/강방자.png", width: 200, height: 200)
 # This goes somewhere in the middle
 personal = RLayout::Container.new(tag: "personal", width: 150, height: 60) do
-  RLayout::Text.new(parent: self, tag: "name", text_string: "강방자", text_size: 12, font: "smGothicP-W70")
+  RLayout::Text.new(parent: self, tag: "name", text_string: "김지윤", text_size: 12, font: "smGothicP-W70")
   RLayout::Text.new(parent: self, tag: "title", text_string: "대리", text_size: 12, font: "smMyungjoP-W30")
   RLayout::Text.new(parent: self, tag: "email", text_string: "bjkang@sungsoo_law_firm.com", text_size: 12)
   RLayout::Text.new(parent: self, tag: "cell", text_string: "010-707-8334", text_size: 12)

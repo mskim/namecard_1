@@ -1,3 +1,5 @@
+
+![card sample](output.jpg)
 # Namecard User Guide
 
 Namecard automates business card creation.
@@ -44,5 +46,5 @@ Namecard automates business card creation.
   In case of company user, it could take the member to the company page, where user enters his/her email to get to specific member page.
 
 #### git based ordering
-  print requests are sent to printer when git is committed, with web-hook.
+  print requests` are sent to printer when git is committed, with web-hook.
   Review price in price.pdf.  sample_order_form.yml is provided as a guide, make a copy and save as order-your_name-2017-2-24.yaml.
